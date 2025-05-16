@@ -26,14 +26,4 @@ This experiment:
 2. **Configure access** to the KVM@TACC OpenStack site.
 3. **Deploy infrastructure** using a provided TOSCA recipe.
 4. **Run a Slurm job** to demonstrate usage.
-5. **Destroy infrastructure** to clean up.
-
----
-
-## 🔁 Reproducibility and Trovi
-
-This project is designed to work with [Chameleon Trovi](https://chameleoncloud.org/blog/2025/04/21/importing-github-repositories-to-trovi-a-step-by-step-guide/), which allows researchers to:
-
-- Launch Jupyter Notebooks with pre-installed dependencies.
-- Avoid authentication hassles — Jupyter is pre-authenticated with Chameleon.
-- Easily share artifacts and results with others.
+5. **Destroy infrastructure** to clean up the space.
