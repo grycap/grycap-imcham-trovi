@@ -17,7 +17,7 @@
             "datePublished": "2025-05-05T10:47:12+00:00",
             "description": "This Trovi artifact installs the IM client on a Jupyter Notebook to deploy a virtual infratructure and test it",
             "disambiguatingDescription": "Integration of Infrastructure Manager and Trovi for Chameleon Cloud",
-            "keywords": "im",
+            "keywords": "experiment",
             "name": "IM client artifact"
         },
         {
