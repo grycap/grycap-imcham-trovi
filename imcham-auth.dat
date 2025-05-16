@@ -1,2 +1,2 @@
 id = im; type = InfrastructureManager; token = <token>;
-id = KVMTACC; type = OpenStack; host = https://kvm.tacc.chameleoncloud.org:5000; username = APP_CRED_ID; auth_version = 3.x_appcred; tenant = PROJECT_ID; password = APP_CRED_SECRET; service_region = KVM@TACC
+id = KVMTACC; type = OpenStack; host = https://kvm.tacc.chameleoncloud.org:5000; username = <app_cred_id>; auth_version = 3.x_appcred; tenant = <project_id>; password = <app_cred_secret>; service_region = KVM@TACC
