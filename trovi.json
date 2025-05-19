@@ -12,12 +12,18 @@
             "author": [
                 {
                     "@id": "#author_0"
+                },
+                {
+                    "@id": "#author_1"
+                },
+                {
+                    "@id": "#author_2"
                 }
             ],
-            "datePublished": "2025-05-05T10:47:12+00:00",
-            "description": "This Trovi artifact installs the IM client on a Jupyter Notebook to deploy a virtual infratructure and test it",
-            "disambiguatingDescription": "Integration of Infrastructure Manager and Trovi for Chameleon Cloud",
-            "keywords": "experiment",
+            "datePublished": "2025-05-19T07:22:43+00:00",
+            "description": "This artifact exemplifies the usage of the Infrastructure Manager (IM) client from a Jupyter Notebook to deploy a sample virtualized infrastructure (e.g Slurm cluster) on Chameleon.",
+            "disambiguatingDescription": "Deployment of complex application architectures on Chameleon via the Infrastructure Manager.",
+            "keywords": "experiment,reproducible-research",
             "name": "IM client artifact"
         },
         {
@@ -33,9 +39,23 @@
         {
             "@id": "#author_0",
             "@type": "Person",
-            "affiliation": "Universidad Politecnica de Valencia",
+            "affiliation": "Universitat Politècnica de València",
+            "email": "gmolto@dsic.upv.es",
+            "name": "Germán Moltó Martínez"
+        },
+        {
+            "@id": "#author_1",
+            "@type": "Person",
+            "affiliation": "Universitat Politècnica de València",
+            "email": "micafer1@upv.es",
+            "name": "Miguel Caballer Fernández"
+        },
+        {
+            "@id": "#author_2",
+            "@type": "Person",
+            "affiliation": "Universitat Politècnica de València",
             "email": "asanchez@i3m.upv.es",
-            "name": "Antonio Sanchez Cortes"
+            "name": "Antonio Sánchez Cortés"
         },
         {
             "@id": "#ChameleonJupyterLab",

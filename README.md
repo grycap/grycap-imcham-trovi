@@ -2,7 +2,7 @@
 
 📌 **NOTE: THIS PROJECT IS A TROVI-COMPATIBLE REPRODUCIBLE EXPERIMENT. RUN THIS NOTEBOOK INSIDE CHAMELEON'S JUPYTERLAB ENVIRONMENT FOR BEST RESULTS.**
 
-This repository provides a simple, fully reproducible experiment that demonstrates how to deploy a **Slurm cluster** on the **Chameleon Cloud** using the [Infrastructure Manager (IM)](https://imdocs.readthedocs.io/en/devel/gstarted.html#im-client-tool), a tool that deploys virtual infrastructures.
+This repository provides a simple, fully reproducible experiment that demonstrates how to deploy a **Slurm cluster** on **Chameleon** using the [Infrastructure Manager (IM)](https://imdocs.readthedocs.io/en/devel/gstarted.html#im-client-tool), a tool that deploys virtual infrastructures.
 
 ### ✅ Reproduce this experiment via: `deploy_slurm_cluster.ipynb`
 
@@ -16,7 +16,7 @@ This experiment:
 
 ## ⚙️ Requirements
 
-- A [Chameleon Cloud](https://chameleoncloud.org/) account and access to the KVM@TACC site.
+- A [Chameleon](https://chameleoncloud.org/) account and access to the KVM@TACC site.
 
 ---
 
