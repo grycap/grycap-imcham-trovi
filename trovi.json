@@ -23,7 +23,7 @@
             "datePublished": "2025-05-19T07:22:43+00:00",
             "description": "This artifact exemplifies the usage of the Infrastructure Manager (IM) client from a Jupyter Notebook to deploy a sample virtualized infrastructure (e.g Slurm cluster) on Chameleon.",
             "disambiguatingDescription": "Deployment of complex application architectures on Chameleon via the Infrastructure Manager.",
-            "keywords": "experiment,reproducible-research",
+            "keywords": "experiment,reproducible research",
             "name": "IM client artifact"
         },
         {
