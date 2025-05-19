@@ -24,7 +24,7 @@
             "description": "This artifact exemplifies the usage of the Infrastructure Manager (IM) client from a Jupyter Notebook to deploy a sample virtualized infrastructure (e.g Slurm cluster) on Chameleon.",
             "disambiguatingDescription": "Deployment of complex application architectures on Chameleon via the Infrastructure Manager.",
             "keywords": "experiment,reproducible research",
-            "name": "IM client artifact"
+            "name": "Deploy Applications on Chameleon via the Infrastructure Manager (IM)"
         },
         {
             "@id": "trovi.json",
@@ -41,21 +41,21 @@
             "@type": "Person",
             "affiliation": "Universitat Politècnica de València",
             "email": "gmolto@dsic.upv.es",
-            "name": "Germán Moltó Martínez"
+            "name": "Germán Moltó"
         },
         {
             "@id": "#author_1",
             "@type": "Person",
             "affiliation": "Universitat Politècnica de València",
             "email": "micafer1@upv.es",
-            "name": "Miguel Caballer Fernández"
+            "name": "Miguel Caballer"
         },
         {
             "@id": "#author_2",
             "@type": "Person",
             "affiliation": "Universitat Politècnica de València",
             "email": "asanchez@i3m.upv.es",
-            "name": "Antonio Sánchez Cortés"
+            "name": "Antonio Sánchez"
         },
         {
             "@id": "#ChameleonJupyterLab",
